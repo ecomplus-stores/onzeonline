@@ -16,7 +16,7 @@
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
     "address": true
   },
@@ -24,6 +24,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/selossl.png"
     }
   ],
   "payment_methods": {
