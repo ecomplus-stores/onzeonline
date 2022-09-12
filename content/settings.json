@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/onzeonline",
   "logo": "/img/uploads/1111logo.png",
   "name": "Onze Online",
-  "short_name": "ON11 Online",
+  "short_name": "ON11",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#ff0000",
   "icon": "/img/uploads/download.png",
   "store_id": 51311,
-  "description": "Onze Online é uma empresa brasileira de varejo especializada em eletroeletrônicos sediada no Rio de Janeiro, com centro de logística e envios no estado do Paraná e São Paulo, denominada operações via dropshipping. A primeira loja foi física foi aberta em 2018 na cidade do Rio de Janeiro no bairro Vila Isabel.",
+  "description": "Onze Online é uma empresa brasileira de varejo especializada em eletroeletrônicos. Qualidade e procedência garantem nosso Status Positivo por nossos clientes, você conta com total compromisso e assistência de pós-venda. ",
   "large_icon": "/img/large-icon.png"
 }
