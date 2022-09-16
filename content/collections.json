@@ -5,7 +5,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Onze Online | Site Oficial",
+      "description": "As melhores ofertas em eletrônicos, informática, acessórios e muito mais, você encontra no site do Onze Online! Confira!"
     },
     {
       "type": "document-banner",
