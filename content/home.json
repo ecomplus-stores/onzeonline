@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Atendimento via WhatsApp Onze Online",
+  "meta_description": "Atendimento direto e humanizado Onze Online",
   "sections": [
     {
       "type": "banner-slider",
@@ -32,11 +32,21 @@
       "page": 1
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "6318cb3f73321213f86aae69:categories:GAMER:/gamer"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/consultor-onze.jpeg",
+      "link": " https://wa.me/+5521997447001?text=Atendimento%20Humanizado%20Onze%20Online"
     },
     {
       "type": "collection-shelf",
