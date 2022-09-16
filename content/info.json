@@ -1,22 +1,23 @@
 {
   "shipping": {
     "show": true,
-    "text": "Garantimos o Melhor Tempo de Entrega",
-    "title": "Entregamos Para Todo o Brasil"
+    "text": "Produtos a pronta entrega",
+    "title": "ENVIAMOS PARA TODO O BRASIL",
+    "link": ""
   },
   "installments": {
     "show": true,
-    "text": "Em até 6X com PayPal",
-    "title": "Parcele Sem Juros"
+    "text": "Em até 6X SEM JUROS",
+    "title": "PAGUE COM SEGURANÇA"
   },
   "exchange": {
     "show": true,
-    "text": "6 meses a partir da data de aquisição",
-    "title": "Garantia Diferenciada"
+    "text": "EMPRESA RA VERIFICADA",
+    "title": "COMPRE COM SEGURANÇA"
   },
   "promo": {
     "show": true,
     "text": "Use o Cupom ON11",
-    "title": "Diferentes promoções ao longo do ano!"
+    "title": "Promoções"
   }
 }
