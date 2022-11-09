@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0aa967de3e2e8ea82c212565b9aaa78a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.48c4b4beaf54fd4cc25634cb3ce8ac33.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6de3df46f03ceed4b720e9b40175b402.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.0958ae95fe3ed3dc0d802ab0d8780651.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.85e37416cbd629dd602cae8640349b22.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Onze Online",
+  "short_name": "ON11",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Onze Online é uma empresa brasileira de varejo especializada em eletroeletrônicos. Qualidade e procedência garantem nosso Status Positivo por nossos clientes, você conta com total compromisso e assistência de pós-venda. ",
+  "background_color": "#ffffff",
+  "theme_color": "#eead2d"
+}
